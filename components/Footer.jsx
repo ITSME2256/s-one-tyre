@@ -12,9 +12,9 @@ export default function Footer() {
 
       {/* กล่องข้อความขวา */}
       <div className="flex justify-between items-center bg-black text-white w-full p-3 rounded">
-        <p>Copyright © 2014</p>
+        <p>Copyright  2025</p>
         <div className="flex flex-col md:flex-row items-start md:items-center">
-          <p className="border-b border-white md:border-none">Supakorn Cherdcahi</p>
+          <p className="border-b border-white md:border-none">By Supakorn Cherdcahi</p>
           <p className="hidden md:block mx-1">|</p>
           <a
             href="mailto:yo-dew-yo@hotmail.com"
