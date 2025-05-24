@@ -6,51 +6,51 @@ const newsGroups = [
   [
     {
       date: "Mar 27, 2025",
-      title: "[New news!!] News and activities...",
+      title: "[ข่าวใหม่!!] News and activities...",
       image: "/images/SOne_Mobile_pic.jpg",
     },
     {
       date: "Mar 26, 2025",
-      title: "[New news!!] News and activities...",
+      title: "[ข่าวใหม่!!] News and activities...",
       image: "/images/SOne_Mobile_pic.jpg",
     },
     {
       date: "Mar 25, 2025",
-      title: "[New news!!] News and activities...",
+      title: "[ข่าวใหม่!!] News and activities...",
       image: "/images/SOne_Mobile_pic.jpg",
     },
   ],
   [
     {
       date: "Mar 24, 2025",
-      title: "[New news!!] News and activities...",
+      title: "[ข่าวใหม่!!] News and activities...",
       image: "/images/SOne_Mobile_pic.jpg",
     },
     {
       date: "Mar 23, 2025",
-      title: "[New news!!] News and activities...",
+      title: "[ข่าวใหม่!!] News and activities...",
       image: "/images/SOne_Mobile_pic.jpg",
     },
     {
       date: "Mar 22, 2025",
-      title: "[New news!!] News and activities...",
+      title: "[ข่าวใหม่!!] News and activities...",
       image: "/images/SOne_Mobile_pic.jpg",
     },
   ],
   [
     {
       date: "Mar 21, 2025",
-      title: "[New news!!] News and activities...",
+      title: "[ข่าวใหม่!!] News and activities...",
       image: "/images/SOne_Mobile_pic.jpg",
     },
     {
       date: "Mar 20, 2025",
-      title: "[New news!!] News and activities...",
+      title: "[ข่าวใหม่!!] News and activities...",
       image: "/images/SOne_Mobile_pic.jpg",
     },
     {
       date: "Mar 19, 2025",
-      title: "[New news!!] News and activities...",
+      title: "[ข่าวใหม่!!] News and activities...",
       image: "/images/SOne_Mobile_pic.jpg",
     },
   ],
